@@ -39,10 +39,11 @@ Prince-Palace/
 
 ## 📸 Screenshots
 If you like this project, feel free to give it a ⭐ on GitHub!<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/542ba71f-a897-4287-be0a-8cbf99fab151" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/ea7c0bbb-fe38-403f-bd13-f4665d4565fd" />
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/785a2984-6cd2-4df6-be22-995a01182b45" />
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/98900a41-cd1c-4364-9978-2c9290b4582e" />        
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/e45b3053-f63e-4888-ae87-e5604d86788f" />
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/98900a41-cd1c-4364-9978-2c9290b4582e" />              
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/785a2984-6cd2-4df6-be22-995a01182b45" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/ea7c0bbb-fe38-403f-bd13-f4665d4565fd" />
 
 ### Home Page
 Beautiful landing page with a welcoming hero section.
